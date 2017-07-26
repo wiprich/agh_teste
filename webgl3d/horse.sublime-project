@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "/var/www/html/webgl2d"
+		},
+		{
+			"path": "/var/www/html/html5_canvas"
+		}
+	]
+}
