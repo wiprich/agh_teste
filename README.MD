@@ -1,1 +1,1 @@
-Os Arquivos tem de ser executado em um servidor remoto ou local, caso contrário, o novageador vai gerar o error Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https.
+Os Arquivos tem de ser executado em um servidor remoto ou local, caso contrário, o navegador vai gerar o erro "Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https."
